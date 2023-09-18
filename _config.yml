@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. student at Arizona State University"
   location         : "Arizona, United States"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=1-oiIY4AAAAJ&hl=en&oi=ao"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Zheng-Meng-Zhai"
