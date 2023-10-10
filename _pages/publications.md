@@ -10,7 +10,7 @@ author_profile: true
 
 <br>
 <br>
-<b> Zheng-Meng Zhai</b>, Ling-Wei Kong, and Ying-Cheng Lai. ''<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033127">Emergence of a resonance in machine learning</a>,'' <i> Physical Review Research</i>, <b>5</b>, 033127, 1-12 (2023).
+<b> Zheng-Meng Zhai</b>, Ling-Wei Kong, and Ying-Cheng Lai. ''<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033127">Emergence of a resonance in machine learning</a>,'' <i> Physical Review Research</i>, <b>5</b>, 033127, 1-12 (2023). <a href="https://www.nature.com/collections/hjhbgijcei">Highlighted as a Featured Article</a>
 
 <br>
 <br>
