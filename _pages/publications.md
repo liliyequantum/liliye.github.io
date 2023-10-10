@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 <br>
-<b> Zheng-Meng Zhai</b>, Mohammadamin Moradi, Ling-Wei Kong, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai. ''<a href="https://www.nature.com/articles/s41467-023-41379-3">Model-free tracking control of complex dynamical trajectories with machine learning</a>,'' <i> Nature Communications</i>, <b>14</b>, 5968, 1-11 (2023).
+<b> Zheng-Meng Zhai</b>, Mohammadamin Moradi, Ling-Wei Kong, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai. ''<a href="https://www.nature.com/articles/s41467-023-41379-3">Model-free tracking control of complex dynamical trajectories with machine learning</a>,'' <i> Nature Communications</i>, <b>14</b>, 5968, 1-11 (2023). <a href="https://www.nature.com/collections/hjhbgijcei">Highlighted as a Featured Article</a>
 
 <br>
 <br>
-<b> Zheng-Meng Zhai</b>, Ling-Wei Kong, and Ying-Cheng Lai. ''<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033127">Emergence of a resonance in machine learning</a>,'' <i> Physical Review Research</i>, <b>5</b>, 033127, 1-12 (2023). <a href="https://www.nature.com/collections/hjhbgijcei">Highlighted as a Featured Article</a>
+<b> Zheng-Meng Zhai</b>, Ling-Wei Kong, and Ying-Cheng Lai. ''<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033127">Emergence of a resonance in machine learning</a>,'' <i> Physical Review Research</i>, <b>5</b>, 033127, 1-12 (2023). 
 
 <br>
 <br>
