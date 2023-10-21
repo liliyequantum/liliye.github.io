@@ -4,7 +4,7 @@ main:
     url: /publications/
     
   - title: "CV"
-    url: /Zhengmeng_CV.pdf
+    url: /files/Zhengmeng_CV.pdf
     external: true
 
   # - title: "Talks"
