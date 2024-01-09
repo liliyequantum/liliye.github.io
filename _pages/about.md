@@ -16,10 +16,7 @@ Zheng-Meng Zhai is a Ph.D. student in Prof. [Ying-Cheng Lai](http://chaos1.la.as
 * Mar. 9, 2023. Paper entitled "[Detecting Weak Physical Signal from Noise: A Machine-Learning Approach with Applications to Magnetic-Anomaly-Guided Navigation](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.034030)" published in Physical Review Applied.
 
 # Services
-* Journal Reviewer:
-  * Physical Review X, Physical Review X Energy,
-  * IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Artificial Intelligence, Information Fusion, Information Sciences,
-  * IEEE Access, Plos One
+* Journal Reviewer: Physical Review X, Physical Review X Energy, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Artificial Intelligence, Information Fusion, Information Sciences, IEEE Access, Plos One.
 
 # Contact Information
 Zheng-Meng Zhai
