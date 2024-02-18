@@ -29,5 +29,4 @@ Tempe, Arizona 85281
 
 Email: zhaizhengmeng@gmail.com, zzhai6@asu.edu
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=gxAjCC-P2QdrpetsQDcqNsCe-r29dfkbLi-KbPbWnHU'></script>
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=gxAjCC-P2QdrpetsQDcqNsCe-r29dfkbLi-KbPbWnHU'></script>
