@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Zheng-Meng Zhai is a Ph.D. student in Prof. [Ying-Cheng Lai](http://chaos1.la.asu.edu/~ylai1/)'s chaos group at [Arizona State University](https://www.asu.edu/). His background is in physics and he is interested in complex systems, nonlinear dynamics, machine learning, time series forecasting and nonlinear control. He currently focuses on applying machine learning to chaotic system prediction, nonlinear tracking control, power grid system, etc.
+Li-Li Ye is a Ph.D. student in Prof. [Ying-Cheng Lai](http://chaos1.la.asu.edu/~ylai1/)'s chaos group at [Arizona State University](https://www.asu.edu/). L.-L. Ye's current research interests are applying machine learning in quantum control, quantum computation, and quantum many-body scars. In addition, L.-Li. Ye is exploring the quantum transport properties and Riemannian geometry on relativistic quantum chaos with Dirac materials.
 
 # Recent News
-* Sept. 14, 2023. Paper entitled "[Model-free tracking control of complex dynamical trajectories with machine learning](https://www.nature.com/articles/s41467-023-41379-3)" published in Nature Communications. [Highlighted as a Featured Article](https://www.nature.com/collections/hjhbgijcei)
-* Aug. 24, 2023. Paper entitled "[Emergence of a resonance in machine learning](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033127)" published in Physical Review Research.
-* Mar. 9, 2023. Paper entitled "[Detecting Weak Physical Signal from Noise: A Machine-Learning Approach with Applications to Magnetic-Anomaly-Guided Navigation](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.034030)" published in Physical Review Applied.
+* March, 2024. Oral presentation entitled "[Machine-learning-based entanglement engineering of optomechanical systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rdNXpfwAAAAJ&citation_for_view=rdNXpfwAAAAJ:Wp0gIr-vW9MC)" in APS March Meeting. 
+* Dec. 4, 2023. Paper entitled "[Spin-dependent edge states in two-dimensional Dirac materials with a flat band](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.235404)" published in Physical Review B.
+* April 4, 2023. Paper entitled "[Irregular Bloch-Zener oscillations in two-dimensional flat-band Dirac materials](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.165422)" published in Physical Review B.
 
 # Services
-* Journal Reviewer: Physical Review X, Physical Review X Energy, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Artificial Intelligence, Information Fusion, Information Sciences, IEEE Access, Plos One.
+* Journal Reviewer: Physical Review B.
 
 # Contact Information
-Zheng-Meng Zhai
+Li-Li Ye
 
 School of Electrical, Computer and Energy Engineering
 
@@ -27,6 +27,6 @@ Arizona State University
 
 Tempe, Arizona 85281
 
-Email: zhaizhengmeng@gmail.com, zzhai6@asu.edu
+Email: liliye@asu.edu
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=gxAjCC-P2QdrpetsQDcqNsCe-r29dfkbLi-KbPbWnHU'></script>
