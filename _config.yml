@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheng-Meng Zhai"
+title                    : "Li-Li Ye"
 title_separator          : "-"
-name                     : &name "Zheng-Meng Zhai"
+name                     : &name "Li-Li Ye"
 description              : &description "Ph.D. student, Arizona State University"
-url                      : https://zheng-meng.github.io/zhengmengzhai.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://liliyequantum.github.io/liliye.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Zheng-Meng/zhengmengzhai.github.io"
+repository               : "liliyequantum/liliye.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheng-Meng Zhai"
+  name             : "Li-Li Ye"
   avatar           : "zmzhai.JPG"
   bio              : "Ph.D. student at Arizona State University"
   location         : "Arizona, United States"
