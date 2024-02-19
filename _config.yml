@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Li-Li Ye"
-  avatar           : "Lili.JPG"
+  avatar           : "liliye.JPG"
   bio              : "Ph.D. student at Arizona State University"
   location         : "Arizona, United States"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=1-oiIY4AAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=rdNXpfwAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Zheng-Meng-Zhai"
+  researchgate     : "https://www.researchgate.net/profile/Li-Li-Ye/research"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Zheng-Meng"
+  github           : "liliyequantum"
   google_plus      :
   keybase          :
-  instagram        : "zhengmengzhai"
+  instagram        : #"zhengmengzhai"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # "www.linkedin.com/in/zhengmeng-zhai-279597291"
+  linkedin         : "https://www.linkedin.com/in/li-li-ye-a99499267/"
   orcid            : "https://orcid.org/0000-0003-3702-0454"
   pinterest        :
   soundcloud       :
